@@ -17,6 +17,7 @@ const Home = () => {
             <img
               className="w-full h-32 object-cover"
               src="https://joshi-bucket-1.s3.amazonaws.com/uploaded_images/amazing-panorama-beach-landscape-maldives-sunset-seascape-view-horizon-with-sea-and-sky-tranquil-scenery-tourism-and-travel-banner-summer-luxury-resort-landscape-vacation-holiday-island-concept-photo.jpg"
+              alt="Vacation 1"
             />
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">Beachside Fun</div>
@@ -33,6 +34,7 @@ const Home = () => {
             <img
               className="w-full h-32 object-cover"
               src="https://joshi-bucket-1.s3.amazonaws.com/uploaded_images/pexels-stywo-1054218.jpg"
+              alt="Vacation 2"
             />
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">Mountain Adventure</div>
@@ -49,6 +51,7 @@ const Home = () => {
             <img
               className="w-full h-32 object-cover"
               src="https://joshi-bucket-1.s3.amazonaws.com/uploaded_images/360_F_347573743_58bQNnPkhAFxXwNKhtIBndZ9I68Z2l7y.jpg"
+              alt="Vacation 3"
             />
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">Desert Exploration</div>
@@ -65,6 +68,7 @@ const Home = () => {
             <img
               className="w-full h-32 object-cover"
               src="https://joshi-bucket-1.s3.amazonaws.com/uploaded_images/glass-skyscrapers-reflect-city-life-at-dusk-free-photo.jpg"
+              alt="Vacation 4"
             />
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">City Life</div>
